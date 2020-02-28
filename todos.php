@@ -1,8 +1,8 @@
 
 [
 
-    {"name": "Enregistrer un tuto angular", "completed": false},
-    {"name": "Monter le tuto sur angular", "completed": false},
-    {"name": "Montrer comment l'ajax c'est trop facile", "completed":true}
+    {"name": "todoList", "completed": false},
+    {"name": "truc a faire", "completed": false},
+    {"name": "autre truc a faire", "completed":true}
     
 ]
